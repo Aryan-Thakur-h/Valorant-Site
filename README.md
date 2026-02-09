@@ -1,3 +1,4 @@
+Watch Live - https://valorantproject.netlify.app/
 # Valorant Project
 
 A fan-made website dedicated to the popular tactical first-person shooter game, Valorant. This project showcases various aspects of the game, including agent roles, gameplay mechanics, and an immersive user experience.
